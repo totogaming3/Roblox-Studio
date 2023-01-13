@@ -1,4 +1,8 @@
--- Script thanks to the roblox wiki :D
+----------------------------------
+--Name: COLLISION OFF
+--Type: LUA Script
+--Author: toto_gaming3
+----------------------------------
 
 
 local PhysicsService = game:GetService("PhysicsService")
