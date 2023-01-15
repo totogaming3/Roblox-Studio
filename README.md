@@ -16,3 +16,7 @@ This is very simple:
 - 4. Open your game.
 - 5. Go back to your file explorer.
 - 6. Drag the file(s) onto the Roblox Studio window.
+
+If, for some reason, it doesn't work, follow these steps:
+- 1. Open your game in Roblox Studio.
+- 2. At the top of your screen, go to Model -> Advanced -> Model, now navigate to the models' directory and Open it.
