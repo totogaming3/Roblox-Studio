@@ -1,7 +1,7 @@
 -------------------------------------------------
 -- Name: COLLISION OFF.lua
 -- Author: toto_gaming3
--- Type: Script
+-- Script Type: Script
 -------------------------------------------------
 
 
